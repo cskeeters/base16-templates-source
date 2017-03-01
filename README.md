@@ -1,3 +1,3 @@
 # Base16 Templates Source
-By adding your repository to this list your template will be available to all Base16 Builders.  
-All templates added to this repository list **must** be released under the MIT (or more permissive) licence.
+
+This is a template source repository the non-compliant [base16-konsole-kde3](https://github.com/cskeeters/base16-konsole-kde3) template repository that requires a [customized base16-builder-php](https://github.com/cskeeters/base16-builder-php).
